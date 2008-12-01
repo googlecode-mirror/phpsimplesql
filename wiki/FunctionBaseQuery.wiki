@@ -1,4 +1,4 @@
-#Documentation of the base->query function
+# Documentation of the base->query function
 
 = Introduction =
 
