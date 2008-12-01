@@ -1,4 +1,5 @@
 #summary Documentation on how to use php-simplesql
+#labels Featured
 
 = Introduction =
 
