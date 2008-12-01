@@ -23,7 +23,7 @@ Once this is done, you can use any of the following functions where they apply.
 = List of Functions =
   * [http://code.google.com/p/phpsimplesql/wiki/FunctionBaseQuery base->query]
   * [http://code.google.com/p/phpsimplesql/wiki/FunctionConnAdddb conn->add_db]
-  * conn->drop_db
+  * [http://code.google.com/p/phpsimplesql/wiki/FunctionConnDropdb conn->drop_db]
   * conn->num_dbs
   * conn->get_dbs
   * db->add_table
