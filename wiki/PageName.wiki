@@ -20,29 +20,29 @@ This will connect to your MySQL server and load/parse it into PHP.
 Once this is done, you can use any of the following functions where they apply.
 
 = List of Functions =
-  base->query
-  conn->__destruct
-  conn->__construct
-  conn->add_db
-  conn->drop_db
-  conn->num_dbs
-  conn->get_dbs
-  db->add_table
-  db->drop_db
-  db->num_tables
-  db->get_tables
-  table->add_row
-  table->add_field
-  table->drop_rows
-  table->drop_field
-  table->num_rows
-  table->num_fields
-  table->rename_field
-  table->get_fields
-  field->search
-  field->__get
-  field->__set
-  field->get_field_flags
-  field->get_field_type
-  field->set_field_flags
-  field->set_type
+  * base->query
+  * conn->__destruct
+  * conn->__construct
+  * conn->add_db
+  * conn->drop_db
+  * conn->num_dbs
+  * conn->get_dbs
+  * db->add_table
+  * db->drop_db
+  * db->num_tables
+  * db->get_tables
+  * table->add_row
+  * table->add_field
+  * table->drop_rows
+  * table->drop_field
+  * table->num_rows
+  * table->num_fields
+  * table->rename_field
+  * table->get_fields
+  * field->search
+  * field->__get
+  * field->__set
+  * field->get_field_flags
+  * field->get_field_type
+  * field->set_field_flags
+  * field->set_type
