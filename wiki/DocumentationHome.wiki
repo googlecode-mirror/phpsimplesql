@@ -20,7 +20,7 @@ This will connect to your MySQL server and load/parse it into PHP.
 Once this is done, you can use any of the following functions where they apply.
 
 = List of Functions =
-  * base->query
+  * [http://code.google.com/p/phpsimplesql/wiki/FunctionBaseQuery base->query]
   * conn->__destruct
   * conn->__construct
   * conn->add_db
