@@ -21,8 +21,6 @@ Once this is done, you can use any of the following functions where they apply.
 
 = List of Functions =
   * [http://code.google.com/p/phpsimplesql/wiki/FunctionBaseQuery base->query]
-  * conn->__destruct
-  * conn->__construct
   * conn->add_db
   * conn->drop_db
   * conn->num_dbs
@@ -40,8 +38,6 @@ Once this is done, you can use any of the following functions where they apply.
   * table->rename_field
   * table->get_fields
   * field->search
-  * field->__get
-  * field->__set
   * field->get_field_flags
   * field->get_field_type
   * field->set_field_flags
