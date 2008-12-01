@@ -24,22 +24,22 @@ Once this is done, you can use any of the following functions where they apply.
   * [http://code.google.com/p/phpsimplesql/wiki/FunctionBaseQuery base->query]
   * [http://code.google.com/p/phpsimplesql/wiki/FunctionConnAdddb conn->add_db]
   * [http://code.google.com/p/phpsimplesql/wiki/FunctionConnDropdb conn->drop_db]
-  * conn->num_dbs
-  * conn->get_dbs
+  * conn->num_dbs (to be implemented)
+  * conn->get_dbs (to be implemented)
   * db->add_table
-  * db->drop_db
-  * db->num_tables
-  * db->get_tables
+  * db->drop_table (to be implemented)
+  * db->num_tables (to be implemented)
+  * db->get_tables (to be implemented)
   * table->add_row
   * table->add_field
-  * table->drop_rows
-  * table->drop_field
+  * table->drop_rows (to be implemented)
+  * table->drop_field (to be implemented)
   * table->num_rows
   * table->num_fields
-  * table->rename_field
-  * table->get_fields
+  * table->rename_field (to be implemented)
+  * table->get_fields (to be implemented)
   * field->search
   * field->get_field_flags
   * field->get_field_type
   * field->set_field_flags
-  * field->set_type
+  * field->set_type (to be implemented)
